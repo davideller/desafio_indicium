@@ -71,7 +71,7 @@ python3 -m venv indicium_challenge
 ```
 Activate enviroment
 ```bash
-. ./indicium_challeng/bin/activate
+. ./indicium_challenge/bin/activate
 ```
 Install requirements
 ```bash
