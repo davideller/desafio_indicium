@@ -92,9 +92,6 @@ Example:
 python3 main.py -s '/Users/macbook/Downloads/sectors.tsv' -c '/Users/macbook/Downloads/contacts.tsv' -d '/Users/macbook/Downloads/deals.tsv' -cp '/Users/macbook/Downloads/companies.tsv' -o '/Users/macbook/Downloads'
 ```
 
-### 3.2 Setting up docker
-
-## Code explanation
 
 
 
